@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+torch
+transformers>=4.33.0
+accelerate
+scipy
